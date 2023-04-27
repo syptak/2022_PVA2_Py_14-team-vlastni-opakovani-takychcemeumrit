@@ -20,6 +20,3 @@ Získej od uživatele dvě čísla.
 Převeď čísla na celá čísla.
 Vypočti součin čísel.
 Vypiš výsledek.
-
-# 6
-Deklaruj dvě čísla a porovnej je 
